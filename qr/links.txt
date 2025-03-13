@@ -1,0 +1,3 @@
+// Link of service used to generate QR
+https://ohno.github.io/github-qr/
+
