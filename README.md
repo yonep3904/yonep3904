@@ -3,8 +3,6 @@
 🎓 Computer Science & Engineering Student <br>
 💻 Interested in **Web Development** and **AI / Machine Learning**
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Studying **Computer Science and Engineering**
@@ -12,23 +10,17 @@
 - 🤖 Exploring **Machine Learning / AI**
 - 📚 Currently learning **Frontend Development & ML**
 
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,py,pytorch,js,ts,react,tailwind,next,nest,nix\&theme=light" alt="My Skills"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,py,pytorch,js,ts,react,tailwind,next,nest,nix\&theme=light" alt="My Skills"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yonep3904&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonep3904&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yonep3904&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonep3904&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
