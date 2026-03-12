@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yonep
+# Hi there 👋 I'm Yonep 🍚
 
 🎓 Computer Science & Engineering Student <br>
 💻 Interested in **Web Development** and **AI / Machine Learning**
