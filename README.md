@@ -20,7 +20,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-sable-seven-25.vercel.app/api?username=yonep3904&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats-sable-seven-25.vercel.app/api/top-langs/?username=yonep3904&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats-sable-seven-25.vercel.app/api/top-langs/?username=yonep3904&layout=compact&theme=tokyonight&langs_count=8&_v=1" alt="Top Languages"/>
 </p>
 
 <p align="center">
