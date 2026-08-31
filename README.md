@@ -19,10 +19,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sable-seven-25.vercel.app/api?username=yonep3904&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats-sable-seven-25.vercel.app/api/top-langs/?username=yonep3904&layout=compact&theme=tokyonight&langs_count=8&_v=1" alt="Top Languages"/>
+  <a href="https://github-readme-stats-sable-seven-25.vercel.app/api?username=yonep3904&show_icons=true&theme=tokyonight">
+    <img height="180" src="https://github-readme-stats-sable-seven-25.vercel.app/api?username=yonep3904&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github-readme-stats-sable-seven-25.vercel.app/api/top-langs/?username=yonep3904&layout=compact&theme=tokyonight&langs_count=8">
+    <img height="180" src="https://github-readme-stats-sable-seven-25.vercel.app/api/top-langs/?username=yonep3904&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yonep3904&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <a href="https://streak-stats.demolab.com?user=yonep3904&theme=tokyonight&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=yonep3904&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  </a>
 </p>
